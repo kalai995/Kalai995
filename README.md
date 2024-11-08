@@ -19,5 +19,5 @@ I’m always open to connecting with professionals in software development, test
 📧 Reach me out: kalaimathivks@gmail.com
 
 🌐 Socials:
- kalaiselvi-ln  
+  https://www.linkedin.com/in/kalaiselvi-v-5a0216126/ 
  
