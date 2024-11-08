@@ -1,16 +1,18 @@
-## Hi there 👋
+💫 About Me:
+Versatile software professional with over 3.5 years of experience in Automation Testing and Front-End Development. Certified ISTQB Tester with a strong foundation in Behaviour Driven Development (BDD) and Agile methodologies.
+A highly skilled Test Automation Engineer with a deep understanding of the automation lifecycle, testing methodologies, and reporting mechanisms. 
+I am passionate about delivering high-quality software, optimizing workflows, and continuously learning new technologies. Skilled in Java, JavaScript, Selenium, Cypress and Postman.
+Committed to continuous learning, as evidenced by completed courses in Full Stack Development and advanced React.js techniques.
+I’m always open to connecting with professionals in software development, testing, and automation. If you’re interested in discussing shared projects or new opportunities, please feel free to reach out.
 
-<!--
-**kalai995/Kalai995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on OpenCart Automation Project
 
-Here are some ideas to get you started:
+🌱 I'm Currently expanding my knowledge and skills in web development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Manual, Automation and API Testing
+
+📧 Reach me out: kalaimathivks@gmail.com
+
+🌐 Socials:
+ kalaiselvi-ln  
+ 
