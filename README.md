@@ -4,7 +4,8 @@ Versatile software professional with over 3.5 years of experience in Automation 
 
 A highly skilled Test Automation Engineer with a deep understanding of the automation lifecycle, testing methodologies, and reporting mechanisms. 
 
-I am passionate about delivering high-quality software, optimizing workflows, and continuously learning new technologies. Skilled in Java, JavaScript, Selenium, Cypress and Postman.
+I am passionate about delivering high-quality software, optimizing workflows, and continuously learning new technologies. Skilled in Java, JavaScript, Selenium, Cypress, Postman, HTML5, CSS3 and React.js.
+
 Committed to continuous learning, as evidenced by completed courses in Full Stack Development and advanced React.js techniques.
 
 I’m always open to connecting with professionals in software development, testing, and automation. If you’re interested in discussing shared projects or new opportunities, please feel free to reach out.
